@@ -3,7 +3,7 @@
 Operating System, Applications & More!
 
 Head Development:
-ItzKAOfficial
+ItzKAOfficial &
 Medhansh80
 
 
