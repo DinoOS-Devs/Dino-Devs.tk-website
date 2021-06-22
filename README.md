@@ -1,10 +1,10 @@
-# DinoOS-Development
+# Website Closed
 
-Operating System, Applications & More!
+**Our Website Is Still In Development For a While**
 
-Head Development:
-ItzKAOfficial &
-Medhansh80
+**But Hang Tight It Will Be Ready Soon!**
+
+
 
 
 
