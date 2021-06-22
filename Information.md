@@ -1,12 +1,5 @@
-# DinoOS-Development
+# Development Mode
 
-Operating System, Applications & More!
+**Our Website Is Still In Development**
 
-Head Development:
-ItzKAOfficial &
-Medhansh80
-
-
-
-©️ Copyrighted By DinoOS Developers
-
+**Please Be Patience Until We Are Finished!**
