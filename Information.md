@@ -3,7 +3,7 @@
 **Here At DinoOS Developers**
 
 **We Develop More Then 1 System We Are Creating & Developing New Applications
-Such As Games, Browsers, Chatting Applications & Much More! **
+Such As Games, Browsers, Chatting Applications & Much More!**
 
 **Our Development Team Are Working On Much More For You & More!**
 
